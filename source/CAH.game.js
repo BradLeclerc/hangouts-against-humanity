@@ -13,8 +13,8 @@ masterCardsPicked = new Array();
 
 function startGame() {
     //start game
-    if (playerStore.count() < 3) {
-        gapi.hangout.layout.displayNotice("You need at least 3 people to play.");
+    if (playerStore.count() < 2) {
+        gapi.hangout.layout.displayNotice("You need at least 2 people to play.");
     }
     else {
         //present game options
@@ -78,7 +78,7 @@ function startGame() {
                     labelWidth: 60,
                     columns: 1,
                     items: [
-                        { boxLabel: 'Narcissism Mode', name: 'narcissismMode', checked: false }
+                        { boxLabel: 'Narcissism Mode', name: 'narcissismMode', checked: true }
                     ]
                 }
             ],
