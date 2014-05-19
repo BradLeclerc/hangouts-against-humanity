@@ -34,7 +34,7 @@
         <!-- CAH -->
         <link rel="stylesheet" href="https://85117101e0f26bedf67e-15ab98c82e424146710a86f06b19b7ce.ssl.cf1.rackcdn.com/css/CAH.css">
         <script src="https://85117101e0f26bedf67e-15ab98c82e424146710a86f06b19b7ce.ssl.cf1.rackcdn.com/CAH.hangout.js"></script>
-        <script src="https://85117101e0f26bedf67e-15ab98c82e424146710a86f06b19b7ce.ssl.cf1.rackcdn.com/data/cards.js"></script>
+        <script src="https://github.com/BradLeclerc/hangouts-against-humanity/blob/master/source/data/cards.js"></script>
         <script src="https://85117101e0f26bedf67e-15ab98c82e424146710a86f06b19b7ce.ssl.cf1.rackcdn.com/CAH.dataStores.js"></script>
         <script src="https://85117101e0f26bedf67e-15ab98c82e424146710a86f06b19b7ce.ssl.cf1.rackcdn.com/CAH.game.js"></script>
         <script src="https://85117101e0f26bedf67e-15ab98c82e424146710a86f06b19b7ce.ssl.cf1.rackcdn.com/CAH.layout.js"></script>
