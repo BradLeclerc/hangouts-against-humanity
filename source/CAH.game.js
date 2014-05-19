@@ -79,7 +79,7 @@ function startGame() {
                     labelWidth: 60,
                     columns: 1,
                     items: [
-                        { boxLabel: 'Narcissism Mode', name: 'narcissismMode', checked: false }
+                        { boxLabel: 'Narcissism Mode', name: 'narcissismMode', checked: true }
                     ]
                 }
             ],
