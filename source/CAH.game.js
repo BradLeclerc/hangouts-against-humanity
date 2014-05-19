@@ -58,7 +58,7 @@ function startGame() {
                         { boxLabel: 'Cards Against Gallifrey (fan Doctor Who set)', name: 'sets', checked: false, inputValue: 'Gallifrey'},
 			{ boxLabel: 'Cards Against Alternia (fan Homestuck set)', name: 'sets', checked: false, inputValue: 'Alternia'},
 			{ boxLabel: 'Ladies Against Humanity', name: 'sets', checked: false, inputValue: 'Ladies Against Humanity'},
-			{ boxLabel: 'Canadian Conversion', name: 'sets', checked: false, inputValue: 'Canadian Conversion'},
+			{ boxLabel: 'Canadian Conversion Kit', name: 'sets', checked: false, inputValue: 'Canadian Conversion Kit'}
                     ]
                 },
                 {
