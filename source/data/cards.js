@@ -2658,5 +2658,5 @@ masterCards = [{"id":1,"cardType":"A","text":"Flying sex snakes.","numAnswers":0
   {"id":2656,"cardType":"A","text":"Killing a moose with your bare hands.","numAnswers":0,"expansion":"Canadian Conversion Kit"},
   {"id":2657,"cardType":"A","text":"tim Hortons.","numAnswers":0,"expansion":"Canadian Conversion Kit"},
   {"id":2658,"cardType":"A","text":"Quintland.","numAnswers":0,"expansion":"Canadian Conversion Kit"},
-  {"id":2659,"cardType":"A","text":"Karla Momolka.","numAnswers":0,"expansion":"Canadian Conversion Kit"},
+  {"id":2659,"cardType":"A","text":"Karla Momolka.","numAnswers":0,"expansion":"Canadian Conversion Kit"}
 ]
